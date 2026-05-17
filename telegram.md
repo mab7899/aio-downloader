@@ -7,6 +7,53 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 02:03
+---
+
+## FoxNewsTwitter — post 341864
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341864_1779057191.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+President Trump recited a passage from 2 Chronicles 7 during Sunday’s “Rededicate 250” celebration on the National Mall, including the well-known verse urging people to “humble themselves, and pray, and seek my face, and turn from their wicked ways.”
+
+The verse is often cited by Christians as a call for spiritual renewal.
+</div>
+
+## IranIntlTV — post 337701
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337701_1779057192.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+میلاد آفرین، زندانی سیاسی سابق، در حاشیه تجمع اعتراضی ایرانیان در لس‌آنجلس به نیلوفر منصوری، خبرنگار ایران‌اینترنشنال، گفت: «ما صدای زندانیان سیاسی هستیم. من خودم یکی از کسانی بودم که فشارها و آزارهای زندان را تجربه کردم.»
+
+او افزود: «مردمی که امروز اینجا جمع شده‌اند، صدای شما هستند. ما کنار مردم ایران ایستاده‌ایم و می‌خواهیم هرچه زودتر از جمهوری اسلامی عبور کنیم تا زندانیان بتوانند با آرامش به زندگی خود برگردند.»
+
+آفرین همچنین گفت: «مطمئن باشید این آخرین نبرد است.»
+@iranintltv
+</div>
+
+## FarsiVOA — post 218020
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پوشش ویژه | دعای مایک جانسون در مراسم نیایش دویست‌وپنجاهمین سالروز استقلال آمریکا
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 218019
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️منیژه حکمت، کارگردان ایرانی و مادر پگاه آهنگرانی بعد از نمایش فیلم «تمرین‌هایی برای یک انقلاب» گفت چاره‌‌ای جز امیدواری وجود ندارد.
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 01:52
 ---
 
