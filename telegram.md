@@ -7,6 +7,306 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 18:43
+---
+
+## VahidOOnLine — post 240982
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240982_1779203639.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ گفت اگر جمهوری اسلامی به سلاح هسته‌ای دست پیدا می‌کرد، نخست به اسرائیل و سپس به عربستان سعودی، کویت، امارات متحده عربی، قطر و به‌نظر من به کل خاورمیانه حمله می‌کرد.
+
+او افزود در آن صورت شرایط کاملا متفاوت می‌شد و دیگر مذاکره‌ای در کار نبود، بلکه جهان با یک «فاجعه هسته‌ای» روبه‌رو می‌شد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11670
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ درباره ایران : اگر امروز می‌رفتم، ۲۵ سال طول می‌کشید تا آنها بازسازی کنند.
+اما ما نمی‌رویم.
+@withyashar
+</div>
+
+## WithYashar — post 11669
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11669_1779203640.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+صداوسیما: هر کی جنگ نمی‌خواد، جمع کنه بره‌‌‌‌....
+@withyashar
+</div>
+
+## WithYashar — post 11668
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: آنها میدونستن که من آماده حمله هستم، به آنها نگفتم. من هرگز به کسی نمیگم کِی، اما آنها میدونستن که ما خیلی به حمله نزدیک بودیم.
+
+من یک ساعت با تصمیم‌گیری برای رفتن امروز فاصله داشتم؛ احتمالاً امروز درباره یک سالن رقص زیبا صحبت نمی‌کردیم؛ درباره آن صحبت می‌کردیم. من تصمیمم رو گرفته بودم.
+@withyashar
+</div>
+
+## WithYashar — post 11667
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ دربارهٔ ایران:
+رئیس‌جمهور شی جین‌پینگ به من قول داده که هیچ سلاحی برای ایران ارسال نمی‌کند. این یک قول زیباست.
+
+من حرف او را می‌پذیرم و به گفته‌اش اعتماد دارم. از این موضوع قدردانی کردم.
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341937
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341937_1779203642.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump declares that religion is making a "tremendous comeback" in the United States, saying the surge in church attendance is directly linked to America's overall success.
+
+"Religion is taking off like our country is taking off.”
+
+“Our country is hotter now than it's ever been. And I'll tell you, religion is making a tremendous comeback. You look at churches today, they're full."
+</div>
+
+## FoxNewsTwitter — post 341936
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341936_1779203645.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @AmericaNewsroom: 🚨WATCH: Rep. Thomas Massie (R-KY) responds to President Trump -- just moments after Trump slammed Massie as a "terrible congressman."
+</div>
+
+## FoxNewsTwitter — post 341935
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341935_1779203648.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: President Trump jokes about how thin he looks hiding his waist behind a picture of the planned White House ballroom.
+
+“I look so thin. They'll say, ‘Oh, he’s gotten so thin’ because I'm holding this. You don't have to look at my waist. You can look at this. You saw enough of my waist along with President Xi.”
+</div>
+
+## FoxNewsTwitter — post 341934
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341934_1779203651.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+RT @AmericaNewsroom: 🚨BREAKING NEWS: President Trump rails against Democrats as he speaks on peace negotiations with Iran.
+
+Trump: "We may have to give [Iran] another big hit."
+</div>
+
+## DEJradio — post 4738
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨 ترامپ: شاید لازم باشد بازهم به جمهوری اسلامی ضربه‌ای محکم وارد کنیم
+
+دونالد ترامپ گفت با این که حملۀ برنامه‌ریزی‌شده به جمهوری اسلامی را در آخرین لحظات متوقف کرده، اما ممکن است ناگزیر شود بازهم حمله‌ای بزرگ انجام دهد.
+رئیس جمهوری آمریکا گفت تنها یک ساعت تا اجرای حمله فاصله داشت و همه‌چیز آمادۀ اقدام نظامی بود.
+ترامپ می‌گوید جمهوری اسلامی برای رسیدن به توافق التماس می‌کند. او هشدار داد تهران فقط دو یا سه روز فرصت دارد تا به توافق برسد.
+او تاکید کرد آمریکا اجازه نمی‌دهد جمهوری اسلامی به سلاح هسته‌ای دست پیدا کند.
+
+#ترامپ #جنگ
+@DEJradio
+</div>
+
+## IranIntlTV — post 337949
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337949_1779203654.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ گفت اگر جمهوری اسلامی به سلاح هسته‌ای دست پیدا می‌کرد، نخست به اسرائیل و سپس به عربستان سعودی، کویت، امارات متحده عربی، قطر و به‌نظر من به کل خاورمیانه حمله می‌کرد.
+
+او افزود در آن صورت شرایط کاملا متفاوت می‌شد و دیگر مذاکره‌ای در کار نبود، بلکه جهان با یک «فاجعه هسته‌ای» روبه‌رو می‌شد.
+https://iranintl.com/202605193635
+</div>
+
+## IranIntlTV — post 337948
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337948_1779203655.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حمله اخیر به نزدیکی نیروگاه هسته‌ای براکه در امارات، نگرانی‌های زیادی درباره امنیت زیرساخت‌های حیاتی در خلیج فارس ایجاد کرده است. نیروگاه براکه صرفا یک پروژه انرژی توصیف نمی‌شود؛ بلکه به‌عنوان بخشی از مدل اقتصادی و رویکرد آینده‌نگر امارات مطرح است.
+مهدی بیگی، عضو تحریریه ایران‌اینترنشنال، در «پیوست» به این موضوع می‌پردازد
+@iranintltv
+</div>
+
+## IranIntlTV — post 337947
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337947_1779203658.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک شهروند با ارسال پیامی به ایران‌اینترنشنال می‌گوید: «پارسال بعد ازدواج یک آپارتمان گرفتم با مبلغ ۸۰۰ میلیون رهن و ۱۰ میلیون تومان اجاره. امسال صاحبخانه گفته باید یک میلیارد و ۲۰۰ تومان رهن بدهم با ۲۵ میلیون تومان اجاره. کادر درمان هستم و نمی دانم قرار است با زندگی‌ام چکار کنم.»
+</div>
+
+## IranianMinds — post 20403
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+ایران هرگز به سلاح هسته‌ای دست نخواهد یافت و احتمالاً به زودی به توافق خواهیم رسید.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20402
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+در آخر همه چیز حل خواهد شد، چه با راه حل نظامی و چه با توافق!
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20401
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20401_1779203661.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+اگه الان ایرانو ترک کنیم ۲۵ سال طول میکشه خودشونو بازسازی کنن ، ولی ما اینکارو نمیکنیم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20400
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20400_1779203663.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+تنگه هرمز برای ایران نیست ، این آب های بین المللی هست.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20399
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20399_1779203666.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ :
+
+رئیس‌ جمهور چین گفته که هیچ اسلحه‌ای به ایران نمی‌فرسته. قول قشنگیه، به حرفش اعتماد دارم و قدردانشم.
+
+@IranianMinds
+</div>
+
+## Hranews — post 113042
+
+<div align="center">
+  <img src="telegram/content/Hranews_113042_1779203668.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گزارشی از تداوم بازداشت و بلاتکلیفی نوید ایرانی، شهروند بهائی در زندان وکیل آباد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– نوید ایرانی (زرین)، شهروند بهائی ساکن مشهد که در جریان اعتراضات ۱۴۰۴ در این شهر بازداشت شده است، علیرغم گذشت بیش از چهار ماه از زمان دستگیری، کماکان به‌صورت بلاتکلیف در زندان وکیل آباد مشهد محبوس است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، #نوید_ایرانی همچنان در بازداشت است.
+
+براساس اطلاعات دریافتی هرانا، آقای نوید ایرانی با وجود گذشت چهار ماه و چهار روز از زمان بازداشت، کماکان به صورت بلاتکلیف در زندان وکیل آباد مشهد به‌سر می‌برد.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 121132
+
+<div align="center">
+  <a href="telegram/content/alonews_121132_1779203669.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار: آیا رئیس‌جمهور شی گفت که پوتین از حمله به اوکراین پشیمان خواهد شد؟
+
+
+🔴ترامپ: نه. او هرگز چنین چیزی نگفت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121131
+
+<div align="center">
+  <a href="telegram/content/alonews_121131_1779203671.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: اگر امروز می‌رفتم(حمله می کردم)، بازسازی آن‌ها ۲۵ سال طول می‌کشید.
+
+
+🔴 اما ما در حال ترک نیستیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121130
+
+<div align="center">
+  <a href="telegram/content/alonews_121130_1779203673.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈 ترامپ درباره ایران: تنگه هرمز مال ایران نیست. تنگه در آب‌های بین‌المللی است، این به آنها مربوط نیست که چنین کاری کنند! آنها درس خود را آموخته‌اند!
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121129
+
+<div align="center">
+  <a href="telegram/content/alonews_121129_1779203673.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: «رئیس‌جمهور چین به من قول داده است که هیچ سلاحی به ایران ارسال نمی‌کند. این یک قول زیباست.
+
+
+🔴حرف او را قبول دارم. از این بابت قدردانی می‌کنم.»
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 18:33
 ---
 
