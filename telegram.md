@@ -7,6 +7,294 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 22:25
+---
+
+## VahidOOnLine — post 241031
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241031_1779216929.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون ترامپ در نشست خبری کاخ سفید در خصوص جمهوری‌اسلامی گفت دو مسیر پیش روی آمریکا وجود دارد. مسیر اول، مذاکره است و تأکید کرد: «رئیس‌جمهور از ما خواسته به‌طور جدی با ایران مذاکره کنیم.»
+ونس افزود: «در موضوع اصلی یعنی عدم دستیابی ایران به سلاح هسته‌ای، پیشرفت زیادی داشته‌ایم و فکر می‌کنیم ایران هم به دنبال توافق است.»
+او گزینه دوم را از سرگیری عملیات نظامی عنوان کرد و گفت: «گزینه بی این است که عملیات نظامی دوباره آغاز شود تا اهداف آمریکا دنبال شود.»
+وی در پایان تأکید کرد این گزینه مطلوب رئیس‌جمهور نیست و گفت: «فکر نمی‌کنم ایران هم چنین چیزی بخواهد. برای رقص تانگو دو نفر لازم است.»
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241030
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241030_1779216930.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون رییس‌جمهور آمریکا، سه‌شنبه در نشست خبری خود در کاخ سفید همچنین گفت واشینگتن می‌خواهد جمهوری اسلامی فرایندی را بپذیرد که تضمین کند ایران حتی سال‌ها بعد از دوران ریاست‌جمهوری ترامپ هم نتواند توان هسته‌ای خود را بازسازی کند.
+
+او گفت: «ما می‌خواهیم نه فقط تعهد به عدم دستیابی به سلاح هسته‌ای را ببینیم، بلکه می‌خواهیم تعهدی برای همکاری در یک فرایند ببینیم تا اطمینان حاصل شود که نه فقط اکنون، نه فقط وقتی دونالد ترامپ رئیس‌جمهور است، بلکه سال‌ها بعد هم ایرانی‌ها به دنبال بازسازی توان هسته‌ای خود نباشند.»
+
+او افزود: «این چیزی است که ما در مذاکرات در تلاش برای رسیدن به آن هستیم.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11692
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آی 24 نیوز: مقامات اسرائیلی به این باورن که ترامپ با وجود سیگنال‌های متناقض و حرفای عمومی 24 ساعت اخیر، باز هم به حمله به ایران ادامه میده.
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341956
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Senate Judiciary Subcommittee on the Constitution hearing on racial gerrymandering https://twitter.com/i/broadcasts/1qKDzPkkaWVJV
+</div>
+
+## FoxNewsTwitter — post 341955
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341955_1779216931.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: VP Vance slams Democrats for their 'No Kings' hypocrisy:
+
+"One of the great ironies of this job is that for the past couple of years, you see these protests break out all over the country... Everybody holds these signs saying 'No Kings,' right?"
+
+"And how many Democratic lawmakers have I seen holding up signs that say 'No Kings?'"
+
+"And then King Charles comes to the, the Congressional chamber and these guys break out in rapturous applause. So maybe they don't care so much about kings as they pretend that they do."
+</div>
+
+## FoxNewsTwitter — post 341954
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341954_1779216932.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"Come on, man! Have a little bit of objectivity in the way that you ask these questions."
+
+VP Vance slams a reporter over a long-winded question accusing President Trump of insider trading and talking up stocks he owns to turn a profit:
+
+"There are different ways to ask a question. You can just ask a question and try to get your answer. Or you could do like a speech where you say, you know, 'Mr. Vice President, every you know, you're a you're a terrible human being and so is the president. So is the entire cabinet.'"
+
+"Number one, the president doesn't sit at the Oval Office on his computer, on his, like, Robinhood account buying and selling stocks. That's absurd."
+
+"I think the way to lead by example is banning that process, banning that approach and making it illegal, which is exactly what the president has proposed doing."
+</div>
+
+## pm_afshaa — post 91063
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91063_1779216934.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴آی 24 نیوز: مقامات اسرائیلی به این باورن که ترامپ با وجود سیگنال‌های متناقض و حرفای عمومی 24 ساعت اخیر، باز هم به حمله به ایران ادامه میده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91062
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91062_1779216934.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بلومبرگ: ناتو در حال مذاکره درباره ماموریت احتمالی برای کمک به حفاظت از کشتی‌های عبوری از تنگه هرمز در صورتی که این آبراه تا ماه ژوئیه مسدود بمونه.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## DEJradio — post 4752
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4752_1779216935.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🚨
+🔸 خبر ۲۱
+سه‌شنبه ۲۹ اردیبهشت ۱۴۰۵
+
+#خبر۲۱
+@DEJradio
+</div>
+
+## kianmeli1 — post 87500
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87500_1779216936.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ به ایران برای توافق دو یا سه روز مهلت داد
+
+خبرنگار: ایران چند روز فرصت دارد تا پای میز مذاکره بیاید؟
+
+ترامپ: دو یا سه روز. شاید جمعه، شنبه، یکشنبه. یک دوره زمانی محدود. چون ما نمی‌توانیم اجازه دهیم آنها سلاح هسته‌ای داشته باشند.
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87499
+
+<div align="center">
+  <a href="telegram/content/kianmeli1_87499_1779216938.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚠️آموزش کار با اسلحه به کودکان در خیابان
+https://t.me/kianmeli1
+</div>
+
+## kianmeli1 — post 87498
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 هویت اعضای شبکه پولشویی سپاه پاسداران در بریتانیا
+ 
+شبکه‌ای که سالهاست میلیاردها دلار ثروت ایران را به خارج منتقل می‌کند در حالی که مردم داخل کشور زیر فشار فقر و سرکوب له شده‌اند. مزدوران همین باندهای مافیایی سپاه برای حفظ منافع و ادامه غارت حتی در 18 و 19 دی 50 هزار ایرانی را به گلوله بستند.
+https://t.me/kianmeli1
+</div>
+
+## IranIntlTV — post 337981
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337981_1779216941.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون رییس‌جمهور آمریکا، سه‌شنبه در نشست خبری خود در کاخ سفید همچنین گفت واشینگتن می‌خواهد جمهوری اسلامی فرایندی را بپذیرد که تضمین کند ایران حتی سال‌ها بعد از دوران ریاست‌جمهوری ترامپ هم نتواند توان هسته‌ای خود را بازسازی کند.
+
+او گفت: «ما می‌خواهیم نه فقط تعهد به عدم دستیابی به سلاح هسته‌ای را ببینیم، بلکه می‌خواهیم تعهدی برای همکاری در یک فرایند ببینیم تا اطمینان حاصل شود که نه فقط اکنون، نه فقط وقتی دونالد ترامپ رئیس‌جمهور است، بلکه سال‌ها بعد هم ایرانی‌ها به دنبال بازسازی توان هسته‌ای خود نباشند.»
+
+او افزود: «این چیزی است که ما در مذاکرات در تلاش برای رسیدن به آن هستیم.»
+https://iranintl.com/202605193887
+</div>
+
+## ManotoTV — post 105656
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105656_1779216942.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون ترامپ در نشست خبری کاخ سفید در خصوص جمهوری‌اسلامی گفت دو مسیر پیش روی آمریکا وجود دارد. مسیر اول، مذاکره است و تأکید کرد: «رئیس‌جمهور از ما خواسته به‌طور جدی با ایران مذاکره کنیم.»
+ونس افزود: «در موضوع اصلی یعنی عدم دستیابی ایران به سلاح هسته‌ای، پیشرفت زیادی داشته‌ایم و فکر می‌کنیم ایران هم به دنبال توافق است.»
+او گزینه دوم را از سرگیری عملیات نظامی عنوان کرد و گفت: «گزینه بی این است که عملیات نظامی دوباره آغاز شود تا اهداف آمریکا دنبال شود.»
+وی در پایان تأکید کرد این گزینه مطلوب رئیس‌جمهور نیست و گفت: «فکر نمی‌کنم ایران هم چنین چیزی بخواهد. برای رقص تانگو دو نفر لازم است.»
+</div>
+
+## FarsiVOA — post 218155
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماس حساس پرزیدنت ترامپ و علی الزیدی؛ آغاز بزرگ‌ترین چالش دولت عراق با گروه‌های مسلح وابستە بە جمهوری اسلامی
+</div>
+
+## FarsiVOA — post 218154
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی جوانمردی: جنگ یا توافق، کدامیک بە نفع مردم ایران است؟
+</div>
+
+## Persian_Trend_Official — post 14488
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢ادعای کانال ۱۲ اسرائیل:
+
+💢 ارزیابی‌های اسرائیل نشان
+می‌دهد که ترامپ تصمیم حمله به ایران را گرفته است و اجرای آن فقط مربوط به مسئله زمان است
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## RadioFarda — post 157363
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸جی‌دی ونس، معاون رئیس‌جمهور آمریکا، روز سه‌شنبه گفت ایالات متحده و ایران در مذاکرات خود «پیشرفت زیادی» داشته‌اند و هیچ‌یک از دو طرف خواهان ازسرگیری حملات نظامی نیستند. 🔸او در یک نشست خبری در کاخ سفید به خبرنگاران گفت: «ما فکر می‌کنیم پیشرفت زیادی حاصل کرده‌ایم.…
+</div>
+
+## RadioFarda — post 157362
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157362_1779216943.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸جی‌دی ونس، معاون رئیس‌جمهور آمریکا، روز سه‌شنبه گفت ایالات متحده و ایران در مذاکرات خود «پیشرفت زیادی» داشته‌اند و هیچ‌یک از دو طرف خواهان ازسرگیری حملات نظامی نیستند.
+
+🔸او در یک نشست خبری در کاخ سفید به خبرنگاران گفت: «ما فکر می‌کنیم پیشرفت زیادی حاصل کرده‌ایم. ما فکر می‌کنیم ایرانی‌ها می‌خواهند به توافق برسند.»
+
+🔸دونالد ترامپ ساعتی پیش به خبرنگاران گفت به مقام‌های جمهوری اسلامی چند روز دیگر برای رسیدن به توافق مهلت می‌دهد و ممکن است آمریکا مجبور شود یک «ضربه بزرگ دیگر» به ایران بزند. او در عین حال افزود که تهران برای رسیدن به توافق «التماس» می‌کند.
+
+🔸آقای ونس افزود که به‌تازگی با آقای ترامپ صحبت کرده و رئیس‌جمهور آمریکا تأکید کرده است که مسئله اصلی برای آمریکا این است که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20406
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴جی‌دی‌ونس:
+
+تحویل اورانیوم ایران به روسیه هیچوقت جزو برنامه‌های ما نبوده و من اصلا نمی‌دونم این گزارشات از کجا میان.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20405
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴جی‌دی‌ونس:
+
+در مذاکرات پیشرفت چشمگیری داشتیم، ولی هر وقت که لازم باشد می‌توانیم جنگ را شروع کنیم.
+
+@IranianMinds
+</div>
+
+## manototv — post 105656
+
+<div align="center">
+  <a href="telegram/content/manototv_105656_1779216944.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جی‌دی ونس، معاون ترامپ در نشست خبری کاخ سفید در خصوص جمهوری‌اسلامی گفت دو مسیر پیش روی آمریکا وجود دارد. مسیر اول، مذاکره است و تأکید کرد: «رئیس‌جمهور از ما خواسته به‌طور جدی با ایران مذاکره کنیم.»
+ونس افزود: «در موضوع اصلی یعنی عدم دستیابی ایران به سلاح هسته‌ای، پیشرفت زیادی داشته‌ایم و فکر می‌کنیم ایران هم به دنبال توافق است.»
+او گزینه دوم را از سرگیری عملیات نظامی عنوان کرد و گفت: «گزینه بی این است که عملیات نظامی دوباره آغاز شود تا اهداف آمریکا دنبال شود.»
+وی در پایان تأکید کرد این گزینه مطلوب رئیس‌جمهور نیست و گفت: «فکر نمی‌کنم ایران هم چنین چیزی بخواهد. برای رقص تانگو دو نفر لازم است.»
+</div>
+
+## alonews — post 121170
+
+<div align="center">
+  <img src="telegram/content/alonews_121170_1779216944.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚽️فیفا: ورود پرچم شیر و خورشید و هر پرچمی جز پرچم رسمی کشورها وارد ورزشگاه بشه باهاش برخورد میکنیم و ممنوعه.
+
+@AloSport
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 22:13
 ---
 
