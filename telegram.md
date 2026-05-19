@@ -7,6 +7,152 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 23:53
+---
+
+## VahidOOnLine — post 241047
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241047_1779222190.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی بغض‌آلود از ایران:
+«می‌گفت زیر فشار زندگی مونده…
+با مادری بیمار، اجاره عقب‌افتاده و بیماری خودش
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11697
+
+
+
+
+## WithYashar — post 11696
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اینم پست جدید کارای اداریش رو انجام بدید 😍🔥💥🙌🏾 بمبه
+
+https://www.instagram.com/reel/DYiHl04xutP/?igsh=MWZhNHllczYzNGtvaA==
+
+⁨ اتاق جنگ با یاشار : طوفان ، رهگیری هواپیمای E-2D Advanced Hawkey ناو هواپیمابر آبی خاکی USS BOXER LHD4
+و آب و هوای منطقه برای حمله
+</div>
+
+## mwarmonitor — post 9324
+
+<div align="center">
+  <img src="telegram/content/mwarmonitor_9324_1779222191.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«عبور از تنگه هرمز امشب:
+
+🚢 نفتکش ATMOS (متعلق به روسیه 🇷🇺)
+🚢 نفتکش OCEAN LILY (متعلق به چین 🇨🇳)
+🚢 نفتکش YUAN GUI YANG (متعلق به چین 🇨🇳)
+🚢 کشتی باری ZHANG GU NAN CHANG (متعلق به چین 🇨🇳)»
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9323
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9323_1779222192.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸«نیروهای سنتکام به اجرای کامل محاصره آمریکا علیه ایران ادامه می‌دهند و جریان تجارت به داخل و خارج از بنادر ایران را متوقف کرده‌اند. تاکنون ۸۹ کشتی تجاری برای اطمینان از رعایت این محاصره، تغییر مسیر داده‌اند.»
+
+@mwarmonitor
+</div>
+
+## IranIntlTV — post 337995
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337995_1779222193.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رییس‌جمهور آمریکا گفت شاید ایالات متحده دوباره مجبور شود به جمهوری اسلامی ضربه بزند، هرچند هنوز درباره انجام این اقدام تصمیم قطعی نگرفته است. او افزود فقط یک ساعت پیش از دستور حمله به ایران، آن را عقب انداخته است.
+
+ارزیابی جمشید برزگر، روزنامه‌نگار و تحلیلگر سیاسی
+@iranintltv
+</div>
+
+## ManotoTV — post 105660
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105660_1779222195.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی بغض‌آلود از ایران:
+«می‌گفت زیر فشار زندگی مونده…
+با مادری بیمار، اجاره عقب‌افتاده و بیماری خودش
+</div>
+
+## FarsiVOA — post 218171
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️پرزیدنت ترامپ روز سه‌شنبه ۲۹ اردیبهشت در محل احداث تالار رقص کاخ سفید حاضر شد و به پرسش‌های متعدد خبرنگاران پاسخ داد. صدای آمریکا بخش‌هایی از این پرسش و پاسخ را با ترجمه همزمان پژواک کیومرثی پخش کرد.
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 218170
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺رشید مظاهری در سلول انفرادی؛ همسر این فوتبالیست از مردم خواست تا صدای او باشند
+
+◾️رشید مظاهری، دروازه‌بان پیشین تیم ملی فوتبال ایران که پس از انتقاد علنی از علی خامنه‌ای و کشتار دی ۱۴۰۴ بازداشت شده بود، به سلول انفرادی زندان مرکزی ارومیه منتقل شده است.
+
+⬇️ بیشتر بخوانید:
+https://ir.voanews.com/a/solitary-cell-urumiyah-central-prison-rashid-mazaheri/8151695.html
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14491
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 هواپیمای پیشرفته «E-2D» آمریکا بر روی آسمان خلیج فارس در حال گشت زنی است
+
+💢گزارش‌ها حاکی از آن است که یک فروند هواپیمای هشدار زودهنگام و کنترل هوایی «E-2D Hawkeye» متعلق به نیروی دریایی آمریکا در حال گشت زنی در خلیج فارس است.
+
+▪️ این هواپیما برای شناسایی اهداف هوایی و دریایی و مدیریت میدان نبرد استفاده می‌شود
+
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## manototv — post 105660
+
+<div align="center">
+  <a href="telegram/content/manototv_105660_1779222196.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی بغض‌آلود از ایران:
+«می‌گفت زیر فشار زندگی مونده…
+با مادری بیمار، اجاره عقب‌افتاده و بیماری خودش
+</div>
+
+## alonews — post 121178
+
+<div align="center">
+  <a href="telegram/content/alonews_121178_1779222198.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈حمله‌‌های شدید اسرائیل به کرانه باختری
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 23:43
 ---
 
