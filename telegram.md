@@ -7,6 +7,93 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 03:42
+---
+
+## VahidOOnLine — post 241066
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241066_1779235973.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زمین‌لرزه‌ای به بزرگی ۴.۷ حوالی ساعت ۳:۱۲ بامداد چهارشنبه لافت در استان هرمزگان را لرزاند. این زلزله در قشم و هرمز و مناطق روستایی بندرعباس نیز احساس شد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341970
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341970_1779235974.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+FOX NEWS REPORT: President Trump warns Iran may face another "big hit" if negotiations collapse, revealing he was only an hour away from moving forward with another strike. @BillMelugin_ reports.
+</div>
+
+## pm_afshaa — post 91080
+
+<div align="center">
+  <img src="telegram/content/pm_afshaa_91080_1779235976.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیر ارتباطات کاخ سفید، استیون چونگ:
+هرگز به رئیس‌جمهور ترامپ و قدرت سیاسی او شک نکنید.
+
+آزمایش کن، نتیجه‌اش را ببین
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 338020
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338020_1779235976.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+زمین‌لرزه‌ای به بزرگی ۴.۷ حوالی ساعت ۳:۱۲ بامداد چهارشنبه لافت در استان هرمزگان را لرزاند. این زلزله در قشم و هرمز و مناطق روستایی بندرعباس نیز احساس شد.
+https://iranintl.com/202605203241
+</div>
+
+## Persian_Trend_Official — post 14503
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14503_1779235977.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️زلزله 4.7 ریشتری لافت هرمزگان را لرزاند
+
+💢بنا بر اعلام مرکز لرزه نگاری زمین لرزه ای به قدرت 4.7 ریشتر ساعت 3:10 بامداد امروز - چهارشنبه- لافت هرمزگان را لرزاند
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14502
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14502_1779235977.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢دونالد ترامپ :
+
+💢ما همه چیز را نابود می‌کنیم و این جنگ را خیلی سریع به پایان می‌رسانیم.
+
+💢آن‌ها آنقدر خسته‌اند که می‌خواهند به شدت معامله کنند.
+
+💢این باید ۴۷ سال پیش اتفاق می‌افتاد. کسی باید کاری درباره‌اش انجام می‌داد. کسی باید کاری درباره‌اش انجام می‌داد.
+
+💢این اتفاق خواهد افتاد و خیلی سریع خواهد بود.
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 03:38
 ---
 
