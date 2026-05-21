@@ -14,6 +14,14 @@ on:
               Example:  https://example.com/video -- -f bestvideo+bestaudio --merge-output-format mkv
         required: true
         type: string
+      bundle_all:
+        description: 'Bundle all downloaded files into a single ZIP archive before splitting'
+        type: boolean
+        default: false
+      upload_as_release:
+        description: 'Upload files as a GitHub Release (uncheck = split push to repo)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -217,7 +225,6 @@ jobs:
               fi
               echo "→ Found $(echo "$COMBINED" | jq length) combined formats."
 
-              # Helper to get formats with non‑null height
               NON_NULL_HEIGHTS=$(echo "$COMBINED" | jq 'map(select(.height != null))')
               HAS_HEIGHTS=$(echo "$NON_NULL_HEIGHTS" | jq length)
 
@@ -244,7 +251,6 @@ jobs:
                   ;;
                 *)
                   HEIGHT="$val"
-                  # Get sorted list of known heights (numbers only)
                   HEIGHTS=$(echo "$NON_NULL_HEIGHTS" | jq '[.[].height] | unique | sort')
                   if [ "$(echo "$HEIGHTS" | jq length)" -eq 0 ]; then
                     echo "❌ No formats with known resolution – falling back to best."
@@ -252,17 +258,14 @@ jobs:
                       -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"
                     continue
                   fi
-                  # Find the closest height
                   CHOSEN=$(echo "$HEIGHTS" | jq --argjson h "$HEIGHT" \
                     'map({h:., d:(. - $h | abs)}) | sort_by(.d, .h) | first.h')
-                  # Pick the format with that height and highest fps
                   MATCHING=$(echo "$COMBINED" | jq --argjson h "$CHOSEN" 'map(select(.height == $h))')
                   FORMAT_ID=$(echo "$MATCHING" | jq -r 'max_by(.fps) | .format_id')
                   ;;
               esac
 
               echo "→ Selected format: $FORMAT_ID (height ~${CHOSEN}p)"
-              # Build output template
               if [ "$CHOSEN" = "unknown" ]; then
                 yt-dlp $COOKIE_ARGS --no-progress -f "$FORMAT_ID" \
                   -o "$OUTPUT_FOLDER/%(title)s.%(ext)s" "$link"
@@ -280,32 +283,120 @@ jobs:
           X_COOKIES: ${{ secrets.X_COOKIES }}
           YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
 
-      - name: "Package each file individually into leecher/ (split at 99MB)"
-        env:
-          BRANCH: ${{ github.ref_name }}
+      - name: "Archive files (bundle & upload method aware)"
+        id: archive
         run: |
           if ! ls downloads/* 1>/dev/null 2>&1; then
-            echo "⚠️ No files to package."
+            echo "⚠️ No files to archive."
             exit 0
           fi
 
-          echo "→ Creating per‑file ZIP archives in leecher/ ..."
-          mkdir -p leecher
+          BUNDLE_ALL="${{ inputs.bundle_all }}"
+          UPLOAD_AS_RELEASE="${{ inputs.upload_as_release }}"
+          OUTPUT_DIR="leecher"
+          rm -rf "$OUTPUT_DIR"
+          mkdir -p "$OUTPUT_DIR"
 
-          cd downloads
-          for f in *; do
-            [ -f "$f" ] || continue
-            RND=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
-            echo "  → Zipping: $f → leech-${RND}.zip (split every 99MB)"
-            zip -s 99m -r "../leecher/leech-${RND}.zip" "$f"
-          done
-          cd ..
+          if [ "$UPLOAD_AS_RELEASE" = "true" ]; then
+            METHOD="release"
+          else
+            METHOD="split_push"
+          fi
 
+          if [ "$BUNDLE_ALL" = "true" ]; then
+            # ── Bundle mode: one ZIP containing all files ──
+            BUNDLE_TMP="bundle_tmp"
+            mkdir -p "$BUNDLE_TMP"
+            # Copy all downloaded files into the bundle folder, handling name collisions
+            find downloads -type f | while read -r f; do
+              fname=$(basename "$f")
+              TARGET="$BUNDLE_TMP/$fname"
+              if [ -e "$TARGET" ]; then
+                base="${fname%.*}"
+                ext="${fname##*.}"
+                if [ "$base" = "$ext" ]; then
+                  base="$fname"
+                  ext=""
+                else
+                  ext=".$ext"
+                fi
+                counter=1
+                while [ -e "$BUNDLE_TMP/${base}_${counter}${ext}" ]; do
+                  counter=$((counter + 1))
+                done
+                TARGET="$BUNDLE_TMP/${base}_${counter}${ext}"
+              fi
+              cp "$f" "$TARGET"
+            done
+
+            if [ -z "$(ls -A "$BUNDLE_TMP" 2>/dev/null)" ]; then
+              echo "No files to bundle."
+              rm -rf "$BUNDLE_TMP"
+              exit 0
+            fi
+
+            RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            BUNDLE_ZIP="leech_bundle_${RAND5}.zip"
+            echo "📦 Creating bundle ZIP: $BUNDLE_ZIP"
+
+            if [ "$METHOD" = "release" ]; then
+              # Unsplit first, split only if > 1950 MiB
+              (cd "$BUNDLE_TMP" && zip -r "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
+              FULLZIP="${OUTPUT_DIR}/${BUNDLE_ZIP}"
+              SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+              if [ "$SIZE" -gt 2044723200 ]; then
+                echo "Bundle ZIP larger than 1950 MiB, splitting"
+                rm "$FULLZIP"
+                (cd "$BUNDLE_TMP" && zip -r -s 1950m "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
+              fi
+            else
+              # split_push: always 99 MB parts
+              (cd "$BUNDLE_TMP" && zip -r -s 99m "../${OUTPUT_DIR}/${BUNDLE_ZIP}" *)
+            fi
+            rm -rf "$BUNDLE_TMP"
+          else
+            # ── Per‑file mode: one ZIP per file ──
+            cd downloads
+            for f in *; do
+              [ -f "$f" ] || continue
+              RND=$(cat /dev/urandom | tr -dc 'a-z' | head -c 5)
+              echo "→ Zipping: $f"
+              if [ "$METHOD" = "release" ]; then
+                # Unsplit first
+                zip -j "../${OUTPUT_DIR}/${f}_${RND}.zip" "$f"
+                FULLZIP="${OUTPUT_DIR}/${f}_${RND}.zip"
+                SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+                if [ "$SIZE" -gt 2044723200 ]; then
+                  echo "ZIP larger than 1950 MiB, splitting"
+                  rm "$FULLZIP"
+                  zip -j -s 1950m "../${OUTPUT_DIR}/${f}_${RND}.zip" "$f"
+                fi
+              else
+                zip -j -s 99m "../${OUTPUT_DIR}/${f}_${RND}.zip" "$f"
+              fi
+            done
+            cd ..
+          fi
+
+          # Generate asset list for release uploads
+          ls -1 "$OUTPUT_DIR" > "${OUTPUT_DIR}_assets.txt"
+          echo "Assets to upload:"
+          cat "${OUTPUT_DIR}_assets.txt"
+
+      - name: "Upload to repository (split_push method)"
+        if: ${{ inputs.upload_as_release == 'false' }}
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          if [ -z "$(ls -A leecher/ 2>/dev/null)" ]; then
+            echo "⚠️ No files to upload."
+            exit 0
+          fi
           echo "→ Committing and pushing leecher/ content..."
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add leecher/*
-          git commit -m "Add per‑file leech ZIPs [skip ci]" || echo "Nothing to commit"
+          git commit -m "Add leech ZIPs [skip ci]" || echo "Nothing to commit"
 
           for i in $(seq 1 5); do
             echo "→ Push attempt $i..."
@@ -316,3 +407,42 @@ jobs:
             fi
             sleep 3
           done
+
+      - name: "Create Release and upload assets (release method)"
+        if: ${{ inputs.upload_as_release == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OUTPUT_DIR="leecher"
+          ASSETS_FILE="${OUTPUT_DIR}_assets.txt"
+
+          if [ ! -s "$ASSETS_FILE" ]; then
+            echo "No assets to release."
+            exit 0
+          fi
+
+          RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+          TAG="aio-leecher-${RAND5}"
+          echo "Creating release tag: $TAG"
+
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git tag "$TAG" -m "AI‑O Leecher download release"
+          git push origin "$TAG"
+
+          ASSET_ARGS=""
+          while IFS= read -r file; do
+            ASSET_ARGS="$ASSET_ARGS ${OUTPUT_DIR}/$file"
+          done < "$ASSETS_FILE"
+
+          gh release create "$TAG" $ASSET_ARGS \
+            --title "aio-leecher-${RAND5}" \
+            --notes "Automated release from AI‑O Leecher workflow." \
+            --target "${{ github.ref_name }}"
+
+          echo "Release '$TAG' created with assets."
+
+      - name: "Cleanup temporary files"
+        if: always()
+        run: |
+          rm -rf downloads bundle_tmp /tmp/instagram_cookies.txt /tmp/x_cookies.txt /tmp/youtube_cookies.txt 2>/dev/null || true
