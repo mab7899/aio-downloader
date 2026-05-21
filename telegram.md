@@ -7,6 +7,58 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/31 10:16
+---
+
+## IranIntlTV — post 338198
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338198_1779346016.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گیلا گاملیل، وزیر علوم و فناوری اسرائیل، در گفت‌وگو با بابک اسحاقی، خبرنگار ایران‌اینترنشنال، گفت جمهوری اسلامی به‌جای تمرکز بر معیشت مردم، به تامین مالی گروه‌های تروریستی می‌پردازد. او افزود حکومت ایران هر روز در حال تضعیف است و او می‌داند که «این حکومت شر در آخر از بین خواهد رفت».
+@iranintltv
+</div>
+
+## FarsiVOA — post 218274
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_218274_1779346017.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت تجارت بریتانیا از امضای قرارداد لغو بخشی از تعرفه‌ کالاهای صادراتی این کشور با اعضای شورای همکاری خلیج فارس خبر داد. طبق توافق، سالانه ۵۸۰ میلیون پوند (۷۸۰ میلیون دلار) تعرفه کشورهای عرب حوزه خلیج فارس بر صادرات کالاهای بریتانیایی لغو شد.
+
+وزارت بازرگانی بریتانیا می‌گوید ارزش این قرارداد با کشورهای عربستان، امارات، قطر، بحرین، عراق و عمان بر اقتصاد این کشور پنج میلیارد دلار خواهد بود.
+
+این قرارداد در میانه تنش‌های منطقه، انسداد تنگه هرمز توسط جمهوری اسلامی و محاصره دریایی جمهوری اسلامی توسط آمریکا امضا شد. پیشتر بریتانیا قراردادهای مشابهی با هند و کره جنوبی امضا کرده بود.
+@FarsiVOA
+</div>
+
+## alonews — post 121473
+
+<div align="center">
+  <a href="telegram/content/alonews_121473_1779346018.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای «میدل ایست آی»: به ترامپ هشدار داده شده آغاز جنگ در ایام حج، آمریکا را در جهان اسلام منفورتر می‌کند و به همین دلیل حمله به ایران به تعویق افتاده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121472
+
+<div align="center">
+  <a href="telegram/content/alonews_121472_1779346018.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈غرفه‌های همسریابی یا همون .... در تجمعات شبانه تهران برپا شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 10:12
 ---
 
